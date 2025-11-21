@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @lpompameo.
 - 👀 I’m interested in Data Analysis, Machine Learning and Neural Networks.
-- 🌱 I’m currently working as a Research Fellow in Data Analysis in the field of Personaized Medicine.
 - 📫 How to reach me: laura.pompameo@gmail.com
 - 😄 Pronouns: she/her
 
